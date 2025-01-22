@@ -30,7 +30,6 @@ b{
   color: #00FFFF;
 }
 
-/* Scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
   scroll-behavior: smooth;
@@ -44,7 +43,6 @@ b{
   border-radius: 100px;
 }
 
-/* Background */
 .bg{
   position:fixed;
   z-index: -1;
@@ -62,9 +60,6 @@ b{
   z-index: -1;
   top: -30px;
 }
-
-
-/* NAVBAR */
 
 .Navbar{
   display: flex;
@@ -209,9 +204,6 @@ b{
   
 }
 
-
-/* HOME PAGE */
-
 .HomePage{
   display: flex;
   justify-content: space-evenly;
@@ -277,10 +269,6 @@ b{
     margin-bottom: 0px;
   }
 }
-
-
-/* ABOUT */
-
 .AboutPage{
   display: flex;
   justify-content: space-evenly;
@@ -327,8 +315,6 @@ b{
   }
 
 }
-
-/* Skills section */
 .skills{
   display: flex;
   flex-wrap: wrap;
@@ -380,8 +366,6 @@ b{
 }
 
 
-/* Project */
-
 .projectHeading{
   text-align: center;
   padding: 75px 0;
@@ -399,7 +383,7 @@ b{
 
 .projectBox{
   width: 350px;
-  border: 3px solid #00FFFF;
+  border: 1px solid #00FFFF;
   border-radius: 5px;
   text-align: center;
   padding: 15px;
@@ -437,17 +421,14 @@ b{
   border-style: none;
 }
 
-/* FOOTER */
 
 footer{
-  width: 90%;
+  width: 95%;
   height: 40px;
   margin: 10px auto;
   margin-top: 80px;
-  letter-spacing: 0.5px;
-  
+  letter-spacing: 0.5px;  
   display:flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;  
   position: relative;
@@ -470,10 +451,4 @@ footer h4{
 .footerLinks a{ 
   text-decoration: none;
   color: inherit;
-}
-
-@media(max-width:750px){
-  footer{
-    height: 110px;
-  }
 }

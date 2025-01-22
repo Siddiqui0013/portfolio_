@@ -5,8 +5,7 @@ import p4 from '../images/p4.jpg'
 import p5 from '../images/p5.jpg'
 import p7 from '../images/p3.jpg'
 import p2 from '../images/p2.jpg'
-
-
+import p6 from '../images/p6.jpg'
 
 const Projects = () => {
   return (
@@ -17,6 +16,7 @@ const Projects = () => {
         <ProjectBox projectPhoto={p2} projectName="SellioAMZ_Extension" />
         <ProjectBox projectPhoto={p7} projectName="MindCanvasAI" />
         <ProjectBox projectPhoto={p4} projectName="CRM" />
+        <ProjectBox projectPhoto={p6} projectName="SafeDrive_Alert" />
         <ProjectBox projectPhoto={p5} projectName="CeaserCipher" />
       </div>
 

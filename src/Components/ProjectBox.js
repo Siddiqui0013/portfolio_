@@ -16,6 +16,9 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     CRMDesc : "This website is created in MERN stack. It is a Customer Relationship Management system.",
     CRMGithub : "https://ewl-crm.vercel.app/",
 
+    SafeDrive_AlertDesc : "An Android App for safe driving built in Kotlin. It uses ML to detect drowsiness and sends alert to drivers.",
+    SafeDrive_AlertGithub : "https://github.com/Siddiqui0013/SafeDrive-Alert",
+
     CeaserCipherDesc : "This website is created with HTML, CSS, Javascript, to enctypt/decrypt Ceaser Cipher text.",
     CeaserCipherGithub : "https://siddiqui0013.github.io/ceaser/",
 
