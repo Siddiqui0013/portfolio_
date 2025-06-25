@@ -8,7 +8,7 @@ const  ProjectBox = ({projectPhoto, projectName}) => {
     SellioAMZGithub : "https://amazon-seller-tool.vercel.app/",
 
     SellioAMZ_ExtensionDesc : "A Chrome Extension for Amazon Sellers to analyze products.",
-    SellioAMZ_ExtensionGithub : "https://github.com/siddiqui0013/",
+    SellioAMZ_ExtensionGithub : "https://github.com/Siddiqui0013/AMZ-Chrome-Extension",
 
     MindCanvasAIDesc : "This website is created in MERN stack. It is a AI document and slides generator.",
     MindCanvasAIGithub : "https://mindcanvas-ai.vercel.app/",
