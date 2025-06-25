@@ -52,8 +52,8 @@ Let’s turn ideas into high-performance apps!
       <h1 className='SkillsHeading'>Professional Skillset</h1>
       <div className='skills'>
         
-        <Skills skill='Typescript' />
-        <Skills skill='Javascript' />
+        <Skills skill='TypeScript' />
+        <Skills skill='JavaScript' />
         <Skills skill='React' />
         <Skills skill='Node' />
         <Skills skill='C#'/>
