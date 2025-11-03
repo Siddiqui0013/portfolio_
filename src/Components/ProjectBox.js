@@ -4,16 +4,19 @@ import { CiLink } from "react-icons/ci";
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
 
-    SellioAMZDesc : "Created using React and Firebase. It is a Amazon Seller tool for analyzing products.",
+    PubbliDesc : "A platform to connect Influencers with Brands for collaboration",
+    PubbliGithub : "https://creator.pubbli.com",
+
+    SellioAMZDesc : "Created using React and Firebase. It is a Amazon Seller tool for analyzing products and managing amazon seller account.",
     SellioAMZGithub : "https://amazon-seller-tool.vercel.app/",
 
-    SellioAMZ_ExtensionDesc : "A Chrome Extension for Amazon Sellers to analyze products.",
+    SellioAMZ_ExtensionDesc : "A Chrome Extension for Amazon Sellers to get product and sale analytics.",
     SellioAMZ_ExtensionGithub : "https://github.com/Siddiqui0013/AMZ-Chrome-Extension",
 
-    MindCanvasAIDesc : "This website is created in MERN stack. It is a AI document and slides generator.",
+    MindCanvasAIDesc : "This website is created in MERN stack with AI integration. It is documents and slides generator app.",
     MindCanvasAIGithub : "https://mindcanvas-ai.vercel.app/",
 
-    CRMDesc : "This website is created in MERN stack. It is a Customer Relationship Management system.",
+    CRMDesc : "A CRM created in MERN stack with different modules for Developers, Designers, BDOs and HR. Its features Check in, Check out, inbox, meetings etc",
     CRMGithub : "https://ewl-crm.vercel.app/",
 
     SafeDrive_AlertDesc : "An Android App for safe driving built in Kotlin. It uses ML to detect drowsiness and sends alert to drivers.",
