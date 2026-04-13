@@ -24,10 +24,10 @@ const About = () => {
           <br/><br/>
 
           Now focused on <b>Machine Learning, AI systems, and data-driven applications</b>—combining strong engineering fundamentals with intelligent solutions.
-
+{/* 
           <br/><br/>
 
-          Let’s build smarter, not just bigger 🚀
+          Let’s build smarter, not just bigger 🚀 */}
         </div>
 
         <div>
