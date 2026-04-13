@@ -43,13 +43,13 @@ const About = () => {
       
       <h1 className='SkillsHeading'>Core Skills</h1>
       <div className='skills'>
-        <Skills skill='AI / Machine Learning' />
         <Skills skill='TypeScript' />
         <Skills skill='JavaScript' />
-        <Skills skill='React' />
-        <Skills skill='Node.js' />
         <Skills skill='Python' />
-        <Skills skill='MongoDB' />
+        <Skills skill='Node.js' />
+        <Skills skill='AI / Machine Learning' />
+        <Skills skill='React' />
+        <Skills skill='MongoDb' />
         <Skills skill='Tailwind' />
         <Skills skill='GitHub' />
       </div>
